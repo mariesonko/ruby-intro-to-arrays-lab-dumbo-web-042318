@@ -10,3 +10,6 @@ end
 def third_element(my_third_element)
     my_third_element[2]
   end
+def last_element(my_last_element)
+  my_last_element[-1]
+end 
