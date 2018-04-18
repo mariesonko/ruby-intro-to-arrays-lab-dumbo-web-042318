@@ -7,3 +7,5 @@ end
 def first_element(my_first_element)
     my_first_element.first
 end
+def third_element(my_third_element)
+    my_third_element[2]
