@@ -20,5 +20,5 @@ def last_element_with_array_methods(last_country )
   last_country.last
 end
 def length_of_array(length)
-  length.size 
-end 
+  length.size
+end
