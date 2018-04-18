@@ -5,7 +5,7 @@ def array_with_two_elements
   @my_two_array = [1, 2]
 end
 def first_element(my_first_element)
-    my_first_element.first
+    my_first_element[0]
 end
 def third_element(my_third_element)
     my_third_element[2]
@@ -20,5 +20,5 @@ def last_element_with_array_methods(last_country )
   last_country.last
 end
 def length_of_array(length)
-  length.size
-end
+  length.size 
+end 
